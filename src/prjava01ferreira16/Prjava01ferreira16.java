@@ -16,7 +16,8 @@ public class Prjava01ferreira16 {
             bw.write("<html>");bw.newLine();
             bw.write("  <head>");bw.newLine();
             bw.write("    <title>");bw.newLine();
-            bw.write("      Nova p&agrave;gina  web de Alex Perez Ferreira");bw.newLine();
+            bw.write("      Nova p&agrave;gina  web de Alex Perez Ferreira "
+                    + "DAW2 UF4 Pràctica2");bw.newLine();
             bw.write("    </title>");bw.newLine();
             bw.write("  </head>");bw.newLine();
             bw.write("  <body>");bw.newLine();
